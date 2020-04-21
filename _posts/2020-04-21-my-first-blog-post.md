@@ -1,3 +1,8 @@
+---
+title: "My-Blog"
+date: 2020-04-21
+---
+
 *This text will be italic*
 _This will also be italic_
 
